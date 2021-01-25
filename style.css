@@ -10,6 +10,11 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
+.sorter {
+  width: 90%;
+  margin: 0 auto;
+  padding: 6px;
+}
 .banner {
   background-color: #184031;
   padding: 16px;
@@ -27,6 +32,11 @@ main {
   margin: 0 auto;
   width: 90%;
   max-width: 1400px;
+}
+
+.header-statement {
+  color: #ffffff;
+  font-size: 1.2rem;
 }
 
 .park {
